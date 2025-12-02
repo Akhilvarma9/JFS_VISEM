@@ -1,3 +1,5 @@
+
+
 body {
     font-family: Arial, sans-serif;
     background: #f2f7ff;
@@ -35,6 +37,14 @@ input[type="text"] {
 
 .total-box {
     background: #e8f0ff;
+    padding: 10px;
+    font-size: 18px;
+    margin: 15px 0;
+    border-radius: 5px;
+}
+
+.final {
+    background: #0d9e4c;
     padding: 10px;
     font-size: 18px;
     margin: 15px 0;
